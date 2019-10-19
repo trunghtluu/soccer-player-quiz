@@ -1,0 +1,12 @@
+.AddPlayerForm {
+    width: 80%;
+    margin: 50px 10%;
+}
+
+.AddPlayerForm__input {
+    margin-bottom: 20px;
+}
+
+.AddPlayerForm__input > label {
+    display: block;
+}
